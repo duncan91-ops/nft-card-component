@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [NFT Card Component Solution](https://www.frontendmentor.io/solutions/nft-card-component-solution-with-css-bem-and-flexbox-25V6yt-1h)
 - Live Site URL: [NFT Card Component](https://duncan91-ops.github.io/nft-card-component/)
 
 ## My process
